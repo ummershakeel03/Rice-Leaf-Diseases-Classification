@@ -1,0 +1,12 @@
+# Ignore model files
+*.keras
+*.h5
+*.pt
+*.pth
+
+# Ignore cache and checkpoints
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore zip or other large files
+*.zip
